@@ -1,0 +1,5 @@
+cryptography==2.8
+docker==4.1.0
+email-validator==2.1.1
+fastapi==0.110.2
+numpy==1.24.4
