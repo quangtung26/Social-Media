@@ -1,1 +1,1 @@
-hello
+Simple Social App
